@@ -12,5 +12,5 @@ Dual-path ASR: The augmented ASR model that is trained by simulated noisy speech
 
 ## Listening example
 
-The simulated noisy and its corresponding clean speech and real noisy speech are available at: https://chrisole.github.io/ICASSP2022-demo/
+The simulated noisy speech and its corresponding clean speech and real noisy speech are available at: https://chrisole.github.io/ICASSP2022-demo/
 
